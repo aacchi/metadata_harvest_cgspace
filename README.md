@@ -1,5 +1,5 @@
-# pipeline_cgspace
-Análisis de metadatos de Briefs publicados en CGSpace (CGIAR)
+# pipeline_metadata_harvest_cgspace
+Análisis de metadatos de *Briefs* publicados en CGSpace (CGIAR)
 
 # CGSpace Briefs — Análisis de Metadatos
 
